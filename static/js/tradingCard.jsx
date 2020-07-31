@@ -77,7 +77,7 @@ function TradingCardContainer() {
     <TradingCard
       name={currentCard.name}
       skill={currentCard.skill}
-      imageUrl={currentCard.imageUrl}
+      imgUrl={currentCard.imgUrl}
       />
     );
   }
