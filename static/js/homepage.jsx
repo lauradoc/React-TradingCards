@@ -3,7 +3,8 @@
 function Homepage() {
   return (
     <div>
-      This component needs to be implemented.
+        <p> Welcome to our <a href = "/cards"> trading card site! </a> </p>
+        <img src = "/static/img/balloonicorn.jpg" /> 
     </div>
   );
 }
